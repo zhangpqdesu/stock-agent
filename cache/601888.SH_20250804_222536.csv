@@ -1,0 +1,2 @@
+﻿timestamp,ts_code,llm_provider,llm_model,analysis_content,file_date,file_time
+2025-08-04T22:25:36.198550,601888.SH,Gemini,gemini-2.5-pro,**API调用失败**: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting,20250804,222536

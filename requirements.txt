@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+python-dotenv
+tushare
+google-generativeai
+dashscope
+openai
+pdfkit
+requests
